@@ -24,7 +24,6 @@
     height: 600px;
 }
 .footer{
-    height: 200px;
     background: #3a546d;
     color: #fff;
 }
@@ -38,8 +37,10 @@
     padding: 5px;
     margin: 0 5px;
 }
+.footer .row>div:last-child span{
+    color: #1abc9c;
+}
 .copyright{
-    height: 100px;
     background: #2c3e50;
     color: #fff;
 }
